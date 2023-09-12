@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "EMS System",
+    "description": "Emplyee Managment System is a projects created using latest React technologies like: RTK query, JWT, Redux toolkit, Formik, Typescript, Regraph,Nodejs and Postgresql. This project has more than 5 user roles including Admin, HR, Finance, Employee, Network etc. Each user has different useabilities from another and he is build in order to track employees workin hours, project, time in projects, project manager, two different dashboards for emplyee and admin, leave requests, overtime, vacations, item possesions, file uploads, activities and more and more :) .",
+    "img": "../assets/myLogo.png",
+    "frontSkill1": "React TS",
+    "frontSkill2": "WebSocket",
+    "frontSkill3": "MUI",
+    "backendSkill1": "Node TS",
+    "backendSkill2": "Postgresql",
+    "backendSkill3": "WebSocket"
+  },
+  {
+    "id": 2,
+    "title": "Mastermind Game",
+    "description": "This game is an updated version of the original game with the same name. This game has a register and login page, main page, ability to return playing a non finished game, all game logic in structured separated components, level compleatation strategie, player ranking page, etc. This game is created using Angular, Angular Material, JWT, Node TS and Postgres.",
+    "img": "../img1.png",
+    "frontSkill1": "Angular",
+    "frontSkill2": "Angular Material",
+    "frontSkill3": "",
+    "backendSkill1": "Node TS",
+    "backendSkill2": "Postgresql",
+    "backendSkill3": ""
+  },
+  {
+    "id": 3,
+    "title": "Note Web Application",
+    "description": "This project is created using React, Typescript, RTK query, Redux, Node Ts and MongoDB.",
+    "img": "../img3.png",
+    "frontSkill1": "React TS",
+    "frontSkill2": "MUI",
+    "frontSkill3": "",
+    "backendSkill1": "Node TS",
+    "backendSkill2": "MongoDB",
+    "backendSkill3": ""
+  }
+]
